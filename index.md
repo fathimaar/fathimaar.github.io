@@ -1,2 +1,2 @@
 # About me
-I am a Masters graduate in applied data science. 
+Applied ML researcher and Data Scientist.
