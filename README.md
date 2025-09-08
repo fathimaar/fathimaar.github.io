@@ -1,2 +1,2 @@
-# Fathima Abdul Rahman
-Applied ML Engineer, Researcher, Data Scientist
+# fathima.github.io
+This repository is for the development of my (personal wesbite) [fathima.github.io]
