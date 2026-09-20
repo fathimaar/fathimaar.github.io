@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : !(IMG_20180120_110237.jpg)
+  avatar           : ![IMG_20180120_110237.jpg](/images/IMG_20180120_110237.jpg)
   name             : "Fathima Abdul Rahman"
   pronouns         : # example: "she/her"  
   bio              : "Independent HCI and AI researcher"
