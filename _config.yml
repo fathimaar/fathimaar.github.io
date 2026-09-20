@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_20180120_110237.jpg"
-  name             : "Fathima Abdul Rahman"
+  name             : "IMG_20180120_110237.jpg"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Independant Researcher"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : # https://www.linkedin.com/in/fathima-ar/
+  email            : "fathimabintar@gmail.com" 
 
   # Academic websites
   academia         : # URL
